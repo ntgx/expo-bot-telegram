@@ -1,0 +1,16 @@
+{
+  "name": "expo-bot",
+  "version": "1.0.0",
+  "description": "The Official Telegram Bot for the first International ICT Expo Ethiopia",
+  "main": "index.js",
+  "author": "Nati",
+  "license": "MIT",
+  "dependencies": {
+    "node-telegram-bot-api": "^0.27.1"
+  },
+  "devDependencies": {
+    "eslint": "^4.0.0",
+    "eslint-config-airbnb-base": "^11.2.0",
+    "eslint-plugin-import": "^2.3.0"
+  }
+}
