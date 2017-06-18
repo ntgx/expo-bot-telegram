@@ -3,6 +3,7 @@ const bot = require('../bot');
 const config = require('../config');
 const exhibitorCategories = require('../expo/exhibitor-categories');
 const exhibitors = require('../expo/exhibitors');
+const floorMap = require('../expo/floor-map');
 const mainMenu = require('./../main-menu');
 
 module.exports = (msg) => {
@@ -23,6 +24,9 @@ module.exports = (msg) => {
         break;
       case 'intent.zone':
         exhibitors(msg, Number(params.zone));
+        break;
+      case 'intent.floor_plan':
+        floorMap(msg);
         break;
       default:
         if (result) bot.sendMessage(msg.chat.id, result);
