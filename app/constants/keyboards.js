@@ -4,4 +4,10 @@ module.exports = {
     ['🤓 Speakers', '🎭 Events'],
     ['✍️ Register', '💸 Sponsors'],
   ],
+  exhibitors: [
+    ['🌐 Software', '🕹 Hardware'],
+    ['🎯 Service', '🏛 Government'],
+    ['🎓 Academia', '🚀 SME & Startup'],
+    ['🔙 Main Menu'],
+  ],
 };

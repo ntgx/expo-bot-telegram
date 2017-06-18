@@ -1,11 +1,8 @@
 const bot = require('./bot');
 const command = require('./handlers/command');
+const nlp = require('./handlers/nlp');
 
 bot.on('message', (msg) => {
   if (/\/\w+/.exec(msg.text)) command(msg);
-  else {
-    // TODO pass msg on to nlp handler
-    const chatId = msg.chat.id;
-    bot.sendMessage(chatId, 'Received your message');
-  }
+  else nlp(msg);
 });

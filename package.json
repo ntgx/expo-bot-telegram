@@ -6,6 +6,7 @@
   "author": "Nati",
   "license": "MIT",
   "dependencies": {
+    "apiai": "^4.0.2",
     "node-telegram-bot-api": "^0.27.1"
   },
   "devDependencies": {
