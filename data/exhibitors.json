@@ -1,0 +1,731 @@
+[
+  {
+    "name": "Cisco",
+    "no_of_booths": 2,
+    "booth_numbers": "1 & 2",
+    "zone": 2,
+    "url": "",
+    "tel": "",
+    "logo": ""
+  },
+  {
+    "name": "Glorious PLC",
+    "no_of_booths": 3,
+    "booth_numbers": "3, 4 & 5",
+    "zone": 2,
+    "url": "",
+    "tel": "",
+    "logo": ""
+  },
+  {
+    "name": "Alpha Business PLC",
+    "no_of_booths": 2,
+    "booth_numbers": "6 & 7",
+    "zone": 2,
+    "url": "",
+    "tel": "",
+    "logo": ""
+  },
+  {
+    "name": "Azewa Mobile Accesory Manufacturing PLC",
+    "no_of_booths": 2,
+    "booth_numbers": "8 & 9",
+    "zone": 2,
+    "url": "",
+    "tel": "",
+    "logo": ""
+  },
+  {
+    "name": "INFINETH SOLUTIONS PLC",
+    "no_of_booths": 2,
+    "booth_numbers": "10 & 46",
+    "zone": 2,
+    "url": "",
+    "tel": "",
+    "logo": ""
+  },
+  {
+    "name": "Silkroad Trading Enterprise",
+    "no_of_booths": 2,
+    "booth_numbers": "11 & 12",
+    "zone": 2,
+    "url": "",
+    "tel": "",
+    "logo": ""
+  },
+  {
+    "name": "Bridgetech PLC",
+    "no_of_booths": 2,
+    "booth_numbers": "13 & 14",
+    "zone": 2,
+    "url": "",
+    "tel": "",
+    "logo": ""
+  },
+  {
+    "name": "Symbol Technologies",
+    "no_of_booths": 3,
+    "booth_numbers": "15, 16 & 17",
+    "zone": 2,
+    "url": "",
+    "tel": "",
+    "logo": ""
+  },
+  {
+    "name": "PA System",
+    "no_of_booths": 1,
+    "booth_numbers": 20,
+    "zone": 2,
+    "url": "",
+    "tel": "",
+    "logo": ""
+  },
+  {
+    "name": "Belay and Kuno ICT Partnership.",
+    "no_of_booths": 1,
+    "booth_numbers": 21,
+    "zone": 2,
+    "url": "",
+    "tel": "",
+    "logo": ""
+  },
+  {
+    "name": "Tecno Mobile",
+    "no_of_booths": 8,
+    "booth_numbers": "22, 23, 24, 25, 26, 27, 28 & 29",
+    "zone": 2,
+    "url": "",
+    "tel": "",
+    "logo": ""
+  },
+  {
+    "name": "Bravocom PLC",
+    "no_of_booths": 2,
+    "booth_numbers": "30 & 31",
+    "zone": 2,
+    "url": "",
+    "tel": "",
+    "logo": ""
+  },
+  {
+    "name": "Com Service Solutions PLC (CCS)",
+    "no_of_booths": 2,
+    "booth_numbers": "32 & 34",
+    "zone": 2,
+    "url": "",
+    "tel": "",
+    "logo": ""
+  },
+  {
+    "name": "SOLFET Security Technology PLC",
+    "no_of_booths": 2,
+    "booth_numbers": "33 & 35",
+    "zone": 2,
+    "url": "",
+    "tel": "",
+    "logo": ""
+  },
+  {
+    "name": "Avicom Trading",
+    "no_of_booths": 2,
+    "booth_numbers": "36 & 38",
+    "zone": 2,
+    "url": "",
+    "tel": "",
+    "logo": ""
+  },
+  {
+    "name": "ALTA Computec PLC",
+    "no_of_booths": 5,
+    "booth_numbers": "37, 39 & 41",
+    "zone": 2,
+    "url": "",
+    "tel": "",
+    "logo": ""
+  },
+  {
+    "name": "ALTA Computec PLC",
+    "no_of_booths": 5,
+    "booth_numbers": "78 & 80",
+    "zone": 3,
+    "url": "",
+    "tel": "",
+    "logo": ""
+  },
+  {
+    "name": "Alkan CIT",
+    "no_of_booths": 2,
+    "booth_numbers": "40 & 42",
+    "zone": 2,
+    "url": "",
+    "tel": "",
+    "logo": ""
+  },
+  {
+    "name": "Hdase Mobile & TV",
+    "no_of_booths": 1,
+    "booth_numbers": 43,
+    "zone": 2,
+    "url": "",
+    "tel": "",
+    "logo": ""
+  },
+  {
+    "name": "IE Networks",
+    "no_of_booths": 2,
+    "booth_numbers": 44,
+    "zone": 2,
+    "url": "",
+    "tel": "",
+    "logo": ""
+  },
+  {
+    "name": "IE Networks",
+    "no_of_booths": 2,
+    "booth_numbers": 122,
+    "zone": 1,
+    "url": "",
+    "tel": "",
+    "logo": ""
+  },
+  {
+    "name": "ADIU Communication Services PLC",
+    "no_of_booths": 1,
+    "booth_numbers": 45,
+    "zone": 2,
+    "url": "",
+    "tel": "",
+    "logo": ""
+  },
+  {
+    "name": "Quanneng Electronics and Technology PLc",
+    "no_of_booths": 1,
+    "booth_numbers": 47,
+    "zone": 2,
+    "url": "",
+    "tel": "",
+    "logo": ""
+  },
+  {
+    "name": "Ethio Telecom",
+    "no_of_booths": 6,
+    "booth_numbers": "58, 59, 60, 61, 62 & 63",
+    "zone": 3,
+    "url": "",
+    "tel": "",
+    "logo": ""
+  },
+  {
+    "name": "HUAWEI",
+    "no_of_booths": 6,
+    "booth_numbers": "64, 65, 66, 67, 68 & 69",
+    "zone": 3,
+    "url": "",
+    "tel": "",
+    "logo": ""
+  },
+  {
+    "name": "Amlion Systems PLC",
+    "no_of_booths": 2,
+    "booth_numbers": "70 & 71",
+    "zone": 3,
+    "url": "",
+    "tel": "",
+    "logo": ""
+  },
+  {
+    "name": "ZTE (H.K) Limited Ethiopia Branch",
+    "no_of_booths": 4,
+    "booth_numbers": "72, 73, 74 & 75",
+    "zone": 3,
+    "url": "",
+    "tel": "",
+    "logo": ""
+  },
+  {
+    "name": "Premier Switch Solutions S.C. (PSS)",
+    "no_of_booths": 1,
+    "booth_numbers": 76,
+    "zone": 3,
+    "url": "",
+    "tel": "",
+    "logo": ""
+  },
+  {
+    "name": "ITSC Technology Support",
+    "no_of_booths": 2,
+    "booth_numbers": "77 & 79",
+    "zone": 3,
+    "url": "",
+    "tel": "",
+    "logo": ""
+  },
+  {
+    "name": "ELROZA Multimedia and Communication PLC",
+    "no_of_booths": 1,
+    "booth_numbers": 81,
+    "zone": 3,
+    "url": "",
+    "tel": "",
+    "logo": ""
+  },
+  {
+    "name": "EQOS Service PLC",
+    "no_of_booths": 1,
+    "booth_numbers": 82,
+    "zone": 3,
+    "url": "",
+    "tel": "",
+    "logo": ""
+  },
+  {
+    "name": "e Health IT Services (Orbit Health)",
+    "no_of_booths": 1,
+    "booth_numbers": 83,
+    "zone": 3,
+    "url": "",
+    "tel": "",
+    "logo": ""
+  },
+  {
+    "name": "Kifiya Financial Technology PLC",
+    "no_of_booths": 6,
+    "booth_numbers": "84, 85, 86, 87, 88 & 89",
+    "zone": 3,
+    "url": "",
+    "tel": "",
+    "logo": ""
+  },
+  {
+    "name": "Infosys PLC",
+    "no_of_booths": 1,
+    "booth_numbers": 90,
+    "zone": 3,
+    "url": "",
+    "tel": "",
+    "logo": ""
+  },
+  {
+    "name": "Ethio Electronics Kifiya PLC",
+    "no_of_booths": 1,
+    "booth_numbers": 91,
+    "zone": 3,
+    "url": "",
+    "tel": "",
+    "logo": ""
+  },
+  {
+    "name": "Info Mind Solutions PLC (Ethio Jobs)",
+    "no_of_booths": 1,
+    "booth_numbers": 92,
+    "zone": 3,
+    "url": "",
+    "tel": "",
+    "logo": ""
+  },
+  {
+    "name": "ICT Association Ethiopia (ICT-ET)",
+    "no_of_booths": 1,
+    "booth_numbers": 94,
+    "zone": 3,
+    "url": "",
+    "tel": "",
+    "logo": ""
+  },
+  {
+    "name": "G2G IT Solutions",
+    "no_of_booths": 1,
+    "booth_numbers": 95,
+    "zone": 3,
+    "url": "",
+    "tel": "",
+    "logo": ""
+  },
+  {
+    "name": "CNET Software Technologis",
+    "no_of_booths": 6,
+    "booth_numbers": "98, 99, 100, 101, 102 & 103",
+    "zone": 1,
+    "url": "",
+    "tel": "",
+    "logo": ""
+  },
+  {
+    "name": "Oracle",
+    "no_of_booths": 2,
+    "booth_numbers": "104 & 105",
+    "zone": 1,
+    "url": "",
+    "tel": "",
+    "logo": ""
+  },
+  {
+    "name": "Digital Afrique Telecom (DAT)",
+    "no_of_booths": 2,
+    "booth_numbers": "106 & 107",
+    "zone": 1,
+    "url": "",
+    "tel": "",
+    "logo": ""
+  },
+  {
+    "name": "Cloud Services Group (CSG)",
+    "no_of_booths": 1,
+    "booth_numbers": 108,
+    "zone": 1,
+    "url": "",
+    "tel": "",
+    "logo": ""
+  },
+  {
+    "name": "UnoWalk",
+    "no_of_booths": 1,
+    "booth_numbers": 109,
+    "zone": 1,
+    "url": "",
+    "tel": "",
+    "logo": ""
+  },
+  {
+    "name": "Beam IT Solutions PLC",
+    "no_of_booths": 2,
+    "booth_numbers": "110 & 111",
+    "zone": 1,
+    "url": "",
+    "tel": "",
+    "logo": ""
+  },
+  {
+    "name": "Perago",
+    "no_of_booths": 1,
+    "booth_numbers": 120,
+    "zone": 1,
+    "url": "",
+    "tel": "",
+    "logo": ""
+  },
+  {
+    "name": "Microsoft",
+    "no_of_booths": 1,
+    "booth_numbers": 113,
+    "zone": 1,
+    "url": "",
+    "tel": "",
+    "logo": ""
+  },
+  {
+    "name": "Hybrid Designs PLC",
+    "no_of_booths": 1,
+    "booth_numbers": 114,
+    "zone": 1,
+    "url": "",
+    "tel": "",
+    "logo": ""
+  },
+  {
+    "name": "Lucy Information Technology PLC",
+    "no_of_booths": 1,
+    "booth_numbers": 115,
+    "zone": 1,
+    "url": "",
+    "tel": "",
+    "logo": ""
+  },
+  {
+    "name": "Marakisoft Technologies PLC",
+    "no_of_booths": 1,
+    "booth_numbers": 116,
+    "zone": 1,
+    "url": "",
+    "tel": "",
+    "logo": ""
+  },
+  {
+    "name": "Exceed IT Systems PLC",
+    "no_of_booths": 1,
+    "booth_numbers": 117,
+    "zone": 1,
+    "url": "",
+    "tel": "",
+    "logo": ""
+  },
+  {
+    "name": "Target Business Consultants PLC",
+    "no_of_booths": 1,
+    "booth_numbers": 118,
+    "zone": 1,
+    "url": "",
+    "tel": "",
+    "logo": ""
+  },
+  {
+    "name": "Fairfax Technologies LLC (Ethiopia Branch)",
+    "no_of_booths": 1,
+    "booth_numbers": 112,
+    "zone": 1,
+    "url": "",
+    "tel": "",
+    "logo": ""
+  },
+  {
+    "name": "Techno Brain",
+    "no_of_booths": 3,
+    "booth_numbers": "119, 121 & 123",
+    "zone": 1,
+    "url": "",
+    "tel": "",
+    "logo": ""
+  },
+  {
+    "name": "Websprix",
+    "no_of_booths": 2,
+    "booth_numbers": "124 & 125",
+    "zone": 1,
+    "url": "",
+    "tel": "",
+    "logo": ""
+  },
+  {
+    "name": "Walia Technologies",
+    "no_of_booths": 1,
+    "booth_numbers": 126,
+    "zone": 1,
+    "url": "",
+    "tel": "",
+    "logo": ""
+  },
+  {
+    "name": "Apposit LLC",
+    "no_of_booths": 1,
+    "booth_numbers": 127,
+    "zone": 1,
+    "url": "",
+    "tel": "",
+    "logo": ""
+  },
+  {
+    "name": "Securicam Advanced Technologies PLC",
+    "no_of_booths": 1,
+    "booth_numbers": 128,
+    "zone": 1,
+    "url": "",
+    "tel": "",
+    "logo": ""
+  },
+  {
+    "name": "CIMAC",
+    "no_of_booths": 1,
+    "booth_numbers": 129,
+    "zone": 1,
+    "url": "",
+    "tel": "",
+    "logo": ""
+  },
+  {
+    "name": "YRP Tech",
+    "no_of_booths": 1,
+    "booth_numbers": 130,
+    "zone": 1,
+    "url": "",
+    "tel": "",
+    "logo": ""
+  },
+  {
+    "name": "Deloitte",
+    "no_of_booths": 2,
+    "booth_numbers": "131 & 133",
+    "zone": 1,
+    "url": "",
+    "tel": "",
+    "logo": ""
+  },
+  {
+    "name": "Addis Ababa Advanced Information Technology",
+    "no_of_booths": 1,
+    "booth_numbers": 132,
+    "zone": 1,
+    "url": "",
+    "tel": "",
+    "logo": ""
+  },
+  {
+    "name": "Ahadootec",
+    "no_of_booths": 1,
+    "booth_numbers": 136,
+    "zone": 1,
+    "url": "",
+    "tel": "",
+    "logo": ""
+  },
+  {
+    "name": "Sage",
+    "no_of_booths": 1,
+    "booth_numbers": 138,
+    "zone": 1,
+    "url": "",
+    "tel": "",
+    "logo": ""
+  },
+  {
+    "name": "USAID",
+    "no_of_booths": 4,
+    "booth_numbers": "140, 141, 142 & 143",
+    "zone": 4,
+    "url": "",
+    "tel": "",
+    "logo": ""
+  },
+  {
+    "name": "Ethiopian Space Science Society (ESSS)",
+    "no_of_booths": 1,
+    "booth_numbers": 144,
+    "zone": 4,
+    "url": "",
+    "tel": "",
+    "logo": ""
+  },
+  {
+    "name": "Camara Education Ethiopia",
+    "no_of_booths": 1,
+    "booth_numbers": 164,
+    "zone": 5,
+    "url": "",
+    "tel": "",
+    "logo": ""
+  },
+  {
+    "name": "Gebeya IT",
+    "no_of_booths": 1,
+    "booth_numbers": 165,
+    "zone": 5,
+    "url": "",
+    "tel": "",
+    "logo": ""
+  },
+  {
+    "name": "Ministry of Communication and Information Technology (MCIT)",
+    "no_of_booths": 4,
+    "booth_numbers": "147, 148, 149",
+    "zone": 4,
+    "url": "",
+    "tel": "",
+    "logo": ""
+  },
+  {
+    "name": "Ministry of Finance and Economic Cooperation (MOFEC)",
+    "no_of_booths": 1,
+    "booth_numbers": 150,
+    "zone": 4,
+    "url": "",
+    "tel": "",
+    "logo": ""
+  },
+  {
+    "name": "ATA",
+    "no_of_booths": 2,
+    "booth_numbers": "151 & 152",
+    "zone": 4,
+    "url": "",
+    "tel": "",
+    "logo": ""
+  },
+  {
+    "name": "SUPED PLC",
+    "no_of_booths": 1,
+    "booth_numbers": 153,
+    "zone": 4,
+    "url": "",
+    "tel": "",
+    "logo": ""
+  },
+  {
+    "name": "Ethiopian Airlines",
+    "no_of_booths": 2,
+    "booth_numbers": "#",
+    "zone": 4,
+    "url": "",
+    "tel": "",
+    "logo": ""
+  },
+  {
+    "name": "Bluemoon Ethiopia",
+    "no_of_booths": 2,
+    "booth_numbers": "Startup zone",
+    "zone": 6,
+    "url": "",
+    "tel": "",
+    "logo": ""
+  },
+  {
+    "name": "ICEADDIS",
+    "no_of_booths": 2,
+    "booth_numbers": "Startup zone",
+    "zone": 6,
+    "url": "",
+    "tel": "",
+    "logo": ""
+  },
+  {
+    "name": "X-Hub",
+    "no_of_booths": 2,
+    "booth_numbers": "Startup zone",
+    "zone": 6,
+    "url": "",
+    "tel": "",
+    "logo": ""
+  },
+  {
+    "name": "Reach for Change",
+    "no_of_booths": 2,
+    "booth_numbers": "Startup zone",
+    "zone": 6,
+    "url": "",
+    "tel": "",
+    "logo": ""
+  },
+  {
+    "name": "CIC",
+    "no_of_booths": 2,
+    "booth_numbers": "Startup zone",
+    "zone": 6,
+    "url": "",
+    "tel": "",
+    "logo": ""
+  },
+  {
+    "name": "E-Birr",
+    "no_of_booths": 1,
+    "booth_numbers": 97,
+    "zone": 3,
+    "url": "",
+    "tel": "",
+    "logo": ""
+  },
+  {
+    "name": "Arif Soft Technology",
+    "no_of_booths": 1,
+    "booth_numbers": 93,
+    "zone": 3,
+    "url": "",
+    "tel": "",
+    "logo": ""
+  },
+  {
+    "name": "Mekelle University",
+    "no_of_booths": 1,
+    "booth_numbers": 154,
+    "zone": 5,
+    "url": "",
+    "tel": "",
+    "logo": ""
+  },
+  {
+    "name": "EBS TV",
+    "no_of_booths": 2,
+    "booth_numbers": "158 & 159",
+    "zone": 2,
+    "url": "",
+    "tel": "",
+    "logo": ""
+  }
+]
