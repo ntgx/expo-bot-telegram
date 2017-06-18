@@ -1,13 +1,11 @@
-const TelegramBot = require('node-telegram-bot-api');
-const config = require('./config');
-
-const token = process.env.EXPO_BOT_TOKEN;
-const options = process.env.NODE_ENV === 'production' ? { webHook: { port: config.PORT } } : { polling: true };
-const bot = new TelegramBot(token, options);
-
-if (process.env.NODE_ENV === 'production') bot.setWebHook(`${config.EXPO_BOT_URI}:443/bot${token}`);
+const bot = require('./bot');
+const command = require('./handlers/command');
 
 bot.on('message', (msg) => {
-  const chatId = msg.chat.id;
-  bot.sendMessage(chatId, 'Received your message');
+  if (/\/\w+/.exec(msg.text)) command(msg);
+  else {
+    // TODO pass msg on to nlp handler
+    const chatId = msg.chat.id;
+    bot.sendMessage(chatId, 'Received your message');
+  }
 });
