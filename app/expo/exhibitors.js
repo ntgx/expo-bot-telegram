@@ -20,14 +20,15 @@ module.exports = (msg, zone, page = 1) => {
       },
     };
 
-    const noOfPages = Math.ceil(exhibitors.length / PER_PAGE);
+    const exhibitorsInZone = exhibitors.filter(e => e.zone === zone);
+    const noOfPages = Math.ceil(exhibitorsInZone.length / PER_PAGE);
     if (noOfPages > 1) {
-      if (page > 1) pagingKeyboard.push({ text: '<<', callback_data: `news,${page - 1}` });
-      if (page < noOfPages) pagingKeyboard.push({ text: '>>', callback_data: `news,${Number(page) + 1}` });
+      if (page > 1) pagingKeyboard.push({ text: '<<', callback_data: '' });
+      if (page < noOfPages) pagingKeyboard.push({ text: '>>', callback_data: '' });
     }
 
     const begin = (page - 1) * PER_PAGE;
-    const reply = exhibitors.slice(begin, begin + PER_PAGE).reduce((acc, e, i) => {
+    const reply = exhibitorsInZone.slice(begin, begin + PER_PAGE).reduce((acc, e, i) => {
       acc = acc + `${i + begin + 1}) [${e.name}](${e.url})\n`;
       return acc;
     }, `*${titles[zone - 1]}*\n`);

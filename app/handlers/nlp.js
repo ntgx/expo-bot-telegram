@@ -2,6 +2,7 @@ const apiAi = require('apiai');
 const bot = require('../bot');
 const config = require('../config');
 const exhibitorCategories = require('../expo/exhibitor-categories');
+const exhibitors = require('../expo/exhibitors');
 const mainMenu = require('./../main-menu');
 
 module.exports = (msg) => {
@@ -10,13 +11,18 @@ module.exports = (msg) => {
 
   apiaiSession.on('response', (response) => {
     const result = response.result.fulfillment.speech;
+    const action = response.result.action;
+    const params = response.result.parameters;
 
-    switch (response.result.action) {
+    switch (action) {
       case 'intent.menu':
         mainMenu(msg);
         break;
       case 'intent.exhibitors':
         exhibitorCategories(msg);
+        break;
+      case 'intent.zone':
+        exhibitors(msg, Number(params.zone));
         break;
       default:
         if (result) bot.sendMessage(msg.chat.id, result);
