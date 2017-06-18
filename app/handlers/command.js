@@ -6,7 +6,7 @@ module.exports = (msg) => {
 
   switch (msg.text) {
     case '/start':
-      bot.sendMessage(chatId, `Hello ${msg.from.first_name || msg.from.username || ''} 😀 I'm the ICT Expo 🇪🇹 Bot and I'll be your assistant for the event. Check out the keyboard below for some of the things i can help you with!`, {
+      bot.sendMessage(chatId, `Hello ${msg.from.first_name || msg.from.username || ''} 😀 I'm the ICT Expo 🇪🇹 Bot and I'll be your assistant for the event. Pick an option from the custom keyboard to get started!`, {
         reply_markup: JSON.stringify({
           keyboard: keyboards.main,
         }),

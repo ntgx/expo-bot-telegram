@@ -2,6 +2,7 @@ const apiAi = require('apiai');
 const bot = require('../bot');
 const config = require('../config');
 const exhibitorCategories = require('../expo/exhibitor-categories');
+const mainMenu = require('./../main-menu');
 
 module.exports = (msg) => {
   const apiAiClient = apiAi(config.EXPO_API_AI_TOKEN);
@@ -11,6 +12,9 @@ module.exports = (msg) => {
     const result = response.result.fulfillment.speech;
 
     switch (response.result.action) {
+      case 'intent.menu':
+        mainMenu(msg);
+        break;
       case 'intent.exhibitors':
         exhibitorCategories(msg);
         break;
