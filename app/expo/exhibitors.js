@@ -28,10 +28,10 @@ module.exports = (msg, zone, page = 1, callbackQuery) => {
     }
 
     const begin = (page - 1) * PER_PAGE;
-    const reply = exhibitorsInZone.slice(begin, begin + PER_PAGE).reduce((acc, e, i) => {
-      acc = acc + `${i + begin + 1}) [${e.name}](${e.url})\n📍Booth Numbers: ${e.booth_numbers}\n\n`;
+    const reply = `${exhibitorsInZone.slice(begin, begin + PER_PAGE).reduce((acc, e, i) => {
+      acc = `${acc}${i + begin + 1}) [${e.name}](${e.url})\n📍Booth Numbers: ${e.booth_numbers}\n\n`; // eslint-disable-line no-param-reassign
       return acc;
-    }, `*${titles[zone - 1]}*\n`);
+    }, `*${titles[zone - 1]}*\n`)} 🗺 See /FloorMap 🗺`;
 
     if (callbackQuery) {
       opts.chat_id = msg.chat.id;

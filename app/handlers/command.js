@@ -12,6 +12,9 @@ module.exports = (msg) => {
         }),
       });
       break;
+    case '/FloorMap':
+      bot.sendPhoto(chatId, 'https://i.imgur.com/cJT4yCo.jpg');
+      break;
     default:
       bot.sendMessage(chatId, 'Unknown command');
       break;

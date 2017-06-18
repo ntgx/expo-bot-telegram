@@ -1,7 +1,6 @@
 const exhibitors = require('../expo/exhibitors');
 
 module.exports = (callbackQuery) => {
-  console.log(callbackQuery);
   const data = JSON.parse(callbackQuery.data);
   const msg = callbackQuery.message;
 
