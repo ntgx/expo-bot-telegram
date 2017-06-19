@@ -3,6 +3,7 @@ const PORT = process.env.PORT;
 
 const EXPO_API_AI_TOKEN = process.env.EXPO_API_AI_TOKEN;
 
+const SPEAKERS_PER_PAGE = 10;
 const EXHIBITORS_PER_PAGE = 10;
 const EXHIBITOR_CATEGORY_TITLES = [
   '🌐 Software 🌐',
@@ -18,6 +19,7 @@ module.exports = {
   PORT,
   EXPO_API_AI_TOKEN,
 
+  SPEAKERS_PER_PAGE,
   EXHIBITORS_PER_PAGE,
   EXHIBITOR_CATEGORY_TITLES,
 };

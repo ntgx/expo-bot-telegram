@@ -3,6 +3,7 @@ const bot = require('../bot');
 const config = require('../config');
 const exhibitorCategories = require('../expo/exhibitor-categories');
 const exhibitors = require('../expo/exhibitors');
+const speakers = require('../expo/speakers');
 const floorMap = require('../expo/floor-map');
 const mainMenu = require('./../main-menu');
 
@@ -24,6 +25,9 @@ module.exports = (msg) => {
         break;
       case 'intent.zone':
         exhibitors(msg, Number(params.zone));
+        break;
+      case 'intent.speakers':
+        speakers(msg);
         break;
       case 'intent.floor_plan':
         floorMap(msg);
