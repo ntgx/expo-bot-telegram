@@ -5,6 +5,8 @@ const EXPO_API_AI_TOKEN = process.env.EXPO_API_AI_TOKEN;
 
 const SPEAKERS_PER_PAGE = 10;
 const EXHIBITORS_PER_PAGE = 10;
+const SPONSORS_PER_PAGE = 10;
+
 
 const EXHIBITOR_CATEGORY_TITLES = [
   '🌐 Software 🌐',
@@ -36,6 +38,17 @@ const DAYS = [
   'Sunday, July 2',
 ];
 
+const SPONSOR_TYPES = {
+  organizer: '🇪🇹 Organizer',
+  facilitator: '🎪 Facilitator',
+  official_carrier: '✈️ Official Carrier',
+  media_partner: '📺 Media Partner',
+  partner: '🎖 Partner',
+  platinum_sponsor: '🥇 Platinum Sponsor',
+  silver_sponsor: '🥈 Silver Sponsor',
+  bronze_sponsor: '🥉 Bronze Sponsor',
+};
+
 module.exports = {
   EXPO_BOT_URI,
   PORT,
@@ -43,10 +56,12 @@ module.exports = {
 
   SPEAKERS_PER_PAGE,
   EXHIBITORS_PER_PAGE,
+  SPONSORS_PER_PAGE,
   EXHIBITOR_CATEGORY_TITLES,
 
   MAIN_KEYBOARD,
   EXHIBITORS_KEYBOARD,
 
   DAYS,
+  SPONSOR_TYPES,
 };
