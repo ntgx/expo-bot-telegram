@@ -1,0 +1,114 @@
+[
+  {
+    "name": "MCIT",
+    "subtitle": "Ministry of Communication and Information Technology",
+    "logo": "https://lh3.googleusercontent.com/GHi2KSLUKcdIZMKZXWrTs_OC0ZjjFLVVnruLTFZ0ZcykLMXE9Mpf_XBMSPP3JiHmMUf4",
+    "url": "http://www.mcit.gov.et/",
+    "type": "organizer"
+  },
+  {
+    "name": "ICTET",
+    "subtitle": "Information & Communication Technology Association - Ethiopia",
+    "logo": "http://www.ictet.org/images/logo.png",
+    "url": "http://www.ictet.org/",
+    "type": "facilitator"
+  },
+  {
+    "name": "Ethiopian Airlines",
+    "subtitle": "The New Spirit of Africa",
+    "logo": "http://cms.travelstart.com/uploads/image/asset/2590/Ethiopian-Airlines-AMLF-Website.jpg",
+    "url": "https://www.ethiopianairlines.com/",
+    "type": "official_carrier"
+  },
+  {
+    "name": "EBS TV",
+    "subtitle": "Watch EBS TV & discover Ethiopia's rich cultural heritage",
+    "logo": "http://www.nbc.gov.ng/uploads/channel/ebs_tv_logo_1428042994.png",
+    "url": "http://ebstv.tv/",
+    "type": "media_partner"
+  },
+  {
+    "name": "Oracle",
+    "subtitle": "Can't break it, can't break in",
+    "logo": "http://www.umassonthemove.net/wp-content/uploads/2016/06/oracle_logo_sm.png",
+    "url": "https://www.oracle.com/",
+    "type": "partner"
+  },
+  {
+    "name": "MasterCard",
+    "subtitle": "There are some things money can't buy. For everything else, there's MasterCard.",
+    "logo": "http://www.tarjetasvirtualesprepago.com/wp-content/uploads/2017/01/Mastercard_logo2.gif",
+    "url": "https://www.mastercard.com/",
+    "type": "partner"
+  },
+  {
+    "name": "Ethio Telecom",
+    "subtitle": "Platinum Sponsor",
+    "logo": "",
+    "url": "http://www.ethionet.et",
+    "type": "sponsor"
+  },
+  {
+    "name": "Tecno Mobile",
+    "subtitle": "Platinum Sponsor",
+    "logo": "",
+    "url": "https://www.facebook.com/TECNOMobileEthiopia/",
+    "type": "sponsor"
+  },
+  {
+    "name": "Huawei",
+    "subtitle": "Platinum Sponsor",
+    "logo": "",
+    "url": "http://www.huawei.com/en/",
+    "type": "sponsor"
+  },
+  {
+    "name": "USAID",
+    "subtitle": "Silver Sponsor",
+    "logo": "",
+    "url": "https://www.usaid.gov/ethiopia",
+    "type": "sponsor"
+  },
+  {
+    "name": "ZTE",
+    "subtitle": "Bronze Sponsor",
+    "logo": "",
+    "url": "https://m.facebook.com/myzteet/",
+    "type": "sponsor"
+  },
+  {
+    "name": "CNET",
+    "subtitle": "Bronze Sponsor",
+    "logo": "",
+    "url": "http://cneterp.com/",
+    "type": "sponsor"
+  },
+  {
+    "name": "Kifiya",
+    "subtitle": "Bronze Sponsor",
+    "logo": "",
+    "url": "http://kifiya.com",
+    "type": "sponsor"
+  },
+  {
+    "name": "Digital Afrique Telecom",
+    "subtitle": "Bronze Sponsor",
+    "logo": "",
+    "url": "http://www.digitalafriquetelecom.com",
+    "type": "sponsor"
+  },
+  {
+    "name": "Cisco",
+    "subtitle": "Bronze Sponsor",
+    "logo": "",
+    "url": "http://www.cisco.com",
+    "type": "sponsor"
+  },
+  {
+    "name": "Deloitte",
+    "subtitle": "Bronze Sponsor",
+    "logo": "",
+    "url": "https://www2.deloitte.com/us/en.html",
+    "type": "sponsor"
+  }
+]
