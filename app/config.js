@@ -14,6 +14,19 @@ const EXHIBITOR_CATEGORY_TITLES = [
   '🚀 SME & Startup 🚀',
 ];
 
+const MAIN_KEYBOARD = [
+  ['🎪 Exhibitors', '📅 Schedule'],
+  ['🤓 Speakers', '🎭 Events'],
+  ['✍️ Register', '💸 Sponsors'],
+];
+
+const EXHIBITORS_KEYBOARD = [
+  ['🌐 Software', '🕹 Hardware'],
+  ['🎯 Service', '🏛 Government'],
+  ['🎓 Academia', '🚀 SME & Startup'],
+  ['🔙 Main Menu'],
+];
+
 module.exports = {
   EXPO_BOT_URI,
   PORT,
@@ -22,4 +35,7 @@ module.exports = {
   SPEAKERS_PER_PAGE,
   EXHIBITORS_PER_PAGE,
   EXHIBITOR_CATEGORY_TITLES,
+
+  MAIN_KEYBOARD,
+  EXHIBITORS_KEYBOARD,
 };
