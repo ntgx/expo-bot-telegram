@@ -1,0 +1,217 @@
+[
+  [  
+    {
+      "time": "10:00am",
+      "title": "Entry to Exhibitors Only",
+      "venue": "Millennium Hall"
+    },
+    {
+      "time": "1:30pm",
+      "title": "Registration to Opening Ceremony (By invitation  Only)",
+      "venue": "Millennium Hall"
+    },
+    {
+      "time": "2:00pm",
+      "title": "Opening Ceremony – High Level Remarks",
+      "venue": "Axum Hall"
+    },
+    {
+      "time": "2:45pm",
+      "title": "Plenary Session: Keynote remarks on ICT and Digital Transformation",
+      "venue": "Axum Hall"
+    },
+    {
+      "time": "3:45pm",
+      "title": "Ribbon Cutting Ceremony",
+      "venue": "Expo Floor"
+    },
+    {
+      "time": "4:30pm",
+      "title": "Expo opens to the public",
+      "venue": "Expo Floor"
+    },
+    {
+      "time": "6:00pm",
+      "title": "Close of day 1",
+      "venue": "Expo Floor"
+    }
+  ],
+  [
+    {
+      "time": "8:30am",
+      "title": "Expo and Panels Open",
+      "venue": ""
+    },
+    {
+      "time": "9:00am",
+      "title": "Panel 1: The Potential Of Digital Financial Services (DFS) In Ethiopia And Building The Ecosystem",
+      "venue": "Lalibela Hall"
+    },
+    {
+      "time": "10:30am",
+      "title": "Coffee Break \n(for panelists and attendees only)",
+      "venue": ""
+    },
+    {
+      "time": "11:00am",
+      "title": "Panel 2:  Digital Finance: Ethiopia Going Cash-Lite",
+      "venue": "Lalibela Hall"
+    },
+    {
+      "time": "12:40pm",
+      "title": "Lunch (for panelists and attendees only)",
+      "venue": "Mezzanine Floor"
+    },
+    {
+      "time": "2:00pm",
+      "title": "Panel 3:  Rising to The Challenge: The Promise Of Ethiopia’s Digital Health Revolution",
+      "venue": "Lalibela Hall"
+    },
+    {
+      "time": "3:30pm",
+      "title": "Coffee Break\n(for panelists and attendees only)",
+      "venue": ""
+    },
+    {
+      "time": "4:00pm",
+      "title": "Panel 4:  Is m-health a game changer?",
+      "venue": "Lalibela Hall"
+    },
+    {
+      "time": "6:00pm",
+      "title": "Close of Day 2",
+      "venue": ""
+    }
+  ],
+  [
+    {
+      "time": "8:30am",
+      "title": "Expo and Panels Open",
+      "venue": ""
+    },
+    {
+      "time": "9:00am",
+      "title": "Digital Agriculture Panels – Powered by Agriculture Transformation Agency (ATA)",
+      "venue": "Lalibela Hall"
+    },
+    {
+      "time": "10:30am",
+      "title": "Coffee Break (for panelists and attendees only)",
+      "venue": ""
+    },
+    {
+      "time": "11:00am",
+      "title": "Panel 6:  Farmer Access To Structured Input/Output Markets: Are Digital Platforms A Solution?",
+      "venue": "Lalibela Hall"
+    },
+    {
+      "time": "11:00am",
+      "title": "Side Panel: ICT Private Sector:  Challenges & Opportunities: A Regional Perspective",
+      "venue": "Axum Hall"
+    },
+    {
+      "time": "12:30pm",
+      "title": "Lunch\n (for panelists and attendees only)",
+      "venue": "Mezzanine Floor"
+    },
+    {
+      "time": "2:00pm",
+      "title": "Panel 7:  How Can Technology Support And Revolutionize Education Delivery And Systems In The Region",
+      "venue": "Lalibela Hall"
+    },
+    {
+      "time": "3:30pm",
+      "title": "Coffee Break (for panelists and attendees only)",
+      "venue": ""
+    },
+    {
+      "time": "4:00pm",
+      "title": "Panel 8:  Learning ‘Using’ Technologies: Can Digitized Content Improve Education Quality",
+      "venue": "Lalibela Hall"
+    },
+    {
+      "time": "6:00pm",
+      "title": "Close of Day 3",
+      "venue": ""
+    }
+  ],
+  [
+    {
+      "time": "8:30am",
+      "title": "Conference & Expo Opens",
+      "venue": ""
+    },
+    {
+      "time": "9:00am",
+      "title": "Academic Papers Presentations",
+      "venue": "Axum Hall"
+    },
+    {
+      "time": "10:30am",
+      "title": "Coffee Break (for panelists and attendees only)",
+      "venue": ""
+    },
+    {
+      "time": "11:00am",
+      "title": "Academic Papers Presentations",
+      "venue": "Axum Hall"
+    },
+    {
+      "time": "11:00am",
+      "title": "Side Panel: Shifting the Startup Gear",
+      "venue": "Lalibela Hall"
+    },
+    {
+      "time": "12:30pm",
+      "title": "Lunch (for panelists and attendees only)",
+      "venue": ""
+    },
+    {
+      "time": "2:00pm",
+      "title": "Academic Papers Presentations",
+      "venue": "Axum Hall"
+    },
+    {
+      "time": "3:30pm",
+      "title": "Coffee Break (for panelists and attendees only)",
+      "venue": ""
+    },
+    {
+      "time": "4:00pm",
+      "title": "Academic Papers Presentations",
+      "venue": "Axum Hall"
+    },
+    {
+      "time": "6:00pm",
+      "title": "End of Day 4",
+      "venue": ""
+    }
+  ],
+  [
+    {
+      "time": "8:30am",
+      "title": "Conference & Expo Opens",
+      "venue": ""
+    },
+    {
+      "time": "10:00am to 1:00pm",
+      "title": "Roundtable Discussion And Wrap-Up: The Way Forward And Action Items",
+      "venue": "Lalibela Hall"
+    },
+    {
+      "time": "1:00pm",
+      "title": "High Level Lunch (by invitation only)",
+      "venue": ""
+    },
+    {
+      "time": "3:00pm",
+      "title": "Expo floor closes – end of day",
+      "venue": ""
+    },
+    {
+      "time": "5:00 – 7:00pm",
+      "title": "Closing Cocktail and Awards",
+      "venue": ""
+    }
+  ]
+]
