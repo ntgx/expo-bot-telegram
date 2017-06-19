@@ -13,6 +13,7 @@ module.exports = (msg, day = 0, callbackQuery) => {
       const row = { text: d, callback_data: JSON.stringify({ type: 'schedule', day: i }) };
       return (i % 2 === 0 ? rows.push([row]) : rows[rows.length - 1].push(row)) && rows;
     }, []);
+
     const opts = {
       parse_mode: 'Markdown',
       reply_markup: {
@@ -21,9 +22,9 @@ module.exports = (msg, day = 0, callbackQuery) => {
     };
 
     const reply = schedule[day].reduce((acc, s, i) => {
-      acc = `${acc}${i + 1}) [${s.title}](${s.url})\n📍Venue: ${s.venue}\n\n`; // eslint-disable-line no-param-reassign
+      acc = `${acc}${i + 1}) [${s.title}](${s.url})\n📍${s.time} ${s.venue ? `(${s.venue})` : ''}\n\n`; // eslint-disable-line no-param-reassign
       return acc;
-    }, `*${config.DAYS[day]}*\n`);
+    }, `*📅 ${config.DAYS[day]} 📅*\n`);
 
     if (callbackQuery) {
       opts.chat_id = msg.chat.id;
