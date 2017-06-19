@@ -27,9 +27,9 @@ module.exports = (msg, page = 1, callbackQuery) => {
 
     const begin = (page - 1) * PER_PAGE;
     const reply = speakers.slice(begin, begin + PER_PAGE).reduce((acc, s, i) => {
-      acc = `${acc}${i + begin + 1}) [${s.name}](${s.url})\n🎖${s.bio}\n\n`; // eslint-disable-line no-param-reassign
+      acc = `${acc}${i + begin + 1}) [${s.name}](${s.url})\n🎖_${s.bio}_\n\n`; // eslint-disable-line no-param-reassign
       return acc;
-    }, '*🤓Speakers🤓*\n');
+    }, '*🤓 Speakers 🤓*\n');
 
     if (callbackQuery) {
       opts.chat_id = msg.chat.id;

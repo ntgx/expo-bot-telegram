@@ -1,0 +1,20 @@
+[
+  {
+    "title": "Robot Soccer Competition",
+    "desc": "Robot Soccer Competition organized by iCog Labs",
+    "pic": "http://singularityhub.com/wp-content/uploads/2010/07/robocup2010-standardized.jpg",
+    "datetime": "July 29, 2017 14:00"
+  },
+  {
+    "title": "Gebeya Hackaton",
+    "desc": "Hacakton with prizes organized by Gebeya IT",
+    "pic": "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_photos/000/488/615/datas/full_width.png",
+    "datetime": "June 28 - July 02"
+  },
+  {
+    "title": "Closing Concert",
+    "desc": "Concert featuring the most famous artists in Ethiopia",
+    "pic": "http://www.ethiopiafun.com/uploads/thumbs/1761a3cde-1.jpg",
+    "datetime": "July 02"
+  }
+]
