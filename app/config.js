@@ -5,6 +5,7 @@ const EXPO_API_AI_TOKEN = process.env.EXPO_API_AI_TOKEN;
 
 const SPEAKERS_PER_PAGE = 10;
 const EXHIBITORS_PER_PAGE = 10;
+
 const EXHIBITOR_CATEGORY_TITLES = [
   '🌐 Software 🌐',
   '🕹 Hardware 🕹',
@@ -27,6 +28,14 @@ const EXHIBITORS_KEYBOARD = [
   ['🔙 Main Menu'],
 ];
 
+const DAYS = [
+  'Wednesday, June 28',
+  'Thursday, June 29',
+  'Friday, June 30',
+  'Saturday, July 1',
+  'Sunday, July 2',
+];
+
 module.exports = {
   EXPO_BOT_URI,
   PORT,
@@ -38,4 +47,6 @@ module.exports = {
 
   MAIN_KEYBOARD,
   EXHIBITORS_KEYBOARD,
+
+  DAYS,
 };

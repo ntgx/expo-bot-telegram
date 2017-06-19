@@ -7,6 +7,7 @@ const speakers = require('../expo/speakers');
 const floorMap = require('../expo/floor-map');
 const mainMenu = require('../expo/main-menu');
 const events = require('../expo/events');
+const schedule = require('../expo/schedule');
 
 module.exports = (msg) => {
   const apiAiClient = apiAi(config.EXPO_API_AI_TOKEN);
@@ -29,6 +30,9 @@ module.exports = (msg) => {
         break;
       case 'intent.speakers':
         speakers(msg);
+        break;
+      case 'intent.schedule':
+        schedule(msg);
         break;
       case 'intent.events':
         events(msg);
