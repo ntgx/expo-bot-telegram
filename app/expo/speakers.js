@@ -21,8 +21,8 @@ module.exports = (msg, page = 1, callbackQuery) => {
 
     const noOfPages = Math.ceil(speakers.length / PER_PAGE);
     if (noOfPages > 1) {
-      if (page > 1) pagingKeyboard.push({ text: '<<', callback_data: JSON.stringify({ type: 'speakers', p: page - 1 }) });
-      if (page < noOfPages) pagingKeyboard.push({ text: '>>', callback_data: JSON.stringify({ type: 'speakers', p: page + 1 }) });
+      if (page > 1) pagingKeyboard.push({ text: '<<', callback_data: JSON.stringify({ type: 'speakers', page: page - 1 }) });
+      if (page < noOfPages) pagingKeyboard.push({ text: '>>', callback_data: JSON.stringify({ type: 'speakers', page: page + 1 }) });
     }
 
     const begin = (page - 1) * PER_PAGE;

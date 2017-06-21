@@ -9,13 +9,13 @@ module.exports = (callbackQuery) => {
 
   switch (data.type) {
     case 'exhibitors':
-      exhibitors(msg, data.z, data.p, callbackQuery);
+      exhibitors(msg, data.zone, data.page, callbackQuery);
       break;
     case 'speakers':
-      speakers(msg, data.p, callbackQuery);
+      speakers(msg, data.page, callbackQuery);
       break;
     case 'sponsors':
-      sponsors(msg, data.p, callbackQuery);
+      sponsors(msg, data.page, callbackQuery);
       break;
     case 'schedule':
       schedule(msg, data.day, callbackQuery);

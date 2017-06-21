@@ -23,8 +23,8 @@ module.exports = (msg, zone, page = 1, callbackQuery) => {
     const exhibitorsInZone = exhibitors.filter(e => e.zone === zone);
     const noOfPages = Math.ceil(exhibitorsInZone.length / PER_PAGE);
     if (noOfPages > 1) {
-      if (page > 1) pagingKeyboard.push({ text: '<<', callback_data: JSON.stringify({ type: 'exhibitors', z: zone, p: page - 1 }) });
-      if (page < noOfPages) pagingKeyboard.push({ text: '>>', callback_data: JSON.stringify({ type: 'exhibitors', z: zone, p: page + 1 }) });
+      if (page > 1) pagingKeyboard.push({ text: '<<', callback_data: JSON.stringify({ type: 'exhibitors', zone, page: page - 1 }) });
+      if (page < noOfPages) pagingKeyboard.push({ text: '>>', callback_data: JSON.stringify({ type: 'exhibitors', zone, page: page + 1 }) });
     }
 
     const begin = (page - 1) * PER_PAGE;

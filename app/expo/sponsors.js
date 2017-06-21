@@ -8,7 +8,7 @@ module.exports = (msg, page = 1, callbackQuery) => {
       console.log('error reading file', err);
       return;
     }
-    console.log('sponsors');
+
     const PER_PAGE = config.SPONSORS_PER_PAGE;
     const types = config.SPONSOR_TYPES;
     const pagingKeyboard = [];
@@ -23,8 +23,8 @@ module.exports = (msg, page = 1, callbackQuery) => {
 
     const noOfPages = Math.ceil(sponsors.length / PER_PAGE);
     if (noOfPages > 1) {
-      if (page > 1) pagingKeyboard.push({ text: '<<', callback_data: JSON.stringify({ type: 'sponsors', p: page - 1 }) });
-      if (page < noOfPages) pagingKeyboard.push({ text: '>>', callback_data: JSON.stringify({ type: 'sponsors', p: page + 1 }) });
+      if (page > 1) pagingKeyboard.push({ text: '<<', callback_data: JSON.stringify({ type: 'sponsors', page: page - 1 }) });
+      if (page < noOfPages) pagingKeyboard.push({ text: '>>', callback_data: JSON.stringify({ type: 'sponsors', page: page + 1 }) });
     }
 
     const begin = (page - 1) * PER_PAGE;
