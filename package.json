@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "The Official Telegram Bot for the first International ICT Expo Ethiopia",
   "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
   "author": "Nati",
   "license": "MIT",
   "dependencies": {

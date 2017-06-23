@@ -1,3 +1,4 @@
+const EXPO_BOT_TOKEN = process.env.EXPO_BOT_TOKEN;
 const EXPO_BOT_URI = 'https://expo-bot-telegram.herokuapp.com';
 const PORT = process.env.PORT;
 
@@ -50,6 +51,7 @@ const SPONSOR_TYPES = {
 };
 
 module.exports = {
+  EXPO_BOT_TOKEN,
   EXPO_BOT_URI,
   PORT,
   EXPO_API_AI_TOKEN,
