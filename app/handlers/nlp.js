@@ -9,6 +9,7 @@ const mainMenu = require('../expo/main-menu');
 const events = require('../expo/events');
 const schedule = require('../expo/schedule');
 const sponsors = require('../expo/sponsors');
+const register = require('../expo/register');
 
 module.exports = (msg) => {
   const apiAiClient = apiAi(config.EXPO_API_AI_TOKEN);
@@ -40,6 +41,9 @@ module.exports = (msg) => {
         break;
       case 'intent.floor_plan':
         floorMap(msg);
+        break;
+      case 'intent.register':
+        register(msg);
         break;
       case 'intent.sponsors':
         sponsors(msg);

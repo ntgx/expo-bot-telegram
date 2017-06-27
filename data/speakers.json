@@ -25,24 +25,9 @@
     "pic": "http://www.ictexpoethiopia.com/wp-content/uploads/2017/04/placeholder.jpg"
   },
   {
-    "name": "Dr Eleni Gabre-Madhin",
-    "bio": "Founder and CEO of Bluemoon Ethiopia and former CEO and Founder of the Ethiopia Commodities Exchange (ECX)",
-    "pic": "http://www.ictexpoethiopia.com/wp-content/uploads/2017/03/Dr-Eleni.jpg"
-  },
-  {
-    "name": "Mbwana Alliy",
-    "bio": "Managing Partner at Savanah Fund",
-    "pic": "http://www.ictexpoethiopia.com/wp-content/uploads/2017/03/Mbwana_Alliy_resized.jpg"
-  },
-  {
     "name": "Solomon Mulugeta Kassa",
     "bio": "Senior Technology Consultant",
     "pic": "http://www.ictexpoethiopia.com/wp-content/uploads/2017/03/Solomon_Kassa_Pic_For_ICTExpo_SpeakerList.png"
-  },
-  {
-    "name": "Zemedeneh Negatu",
-    "bio": "Chairman Fairfax Africa Fund, LLC.",
-    "pic": "http://www.ictexpoethiopia.com/wp-content/uploads/2017/03/zemedeneh_negatu.jpg"
   },
   {
     "name": "Sebuh Haileleul",
@@ -51,7 +36,7 @@
   },
   {
     "name": "Mirafe Gebriel Markos",
-    "bio": "Senior Director, Agribusiness & Markets and Enhanced Implementation Capacity Agricultural Transformation Agency (ATA)",
+    "bio": "Senior Director, Agribusiness & Markets and Enhanced Implementation Capacity\nAgricultural Transformation Agency (ATA)",
     "pic": "http://www.ictexpoethiopia.com/wp-content/uploads/2017/03/Mirafe-ATA.jpg"
   },
   {
@@ -91,13 +76,8 @@
   },
   {
     "name": "Jose Cordeiro, MBA, PhD",
-    "bio": "Founding Energy Advisor/Faculty, Singularity University, NASA Research Park Director, The Millennium Project Visiting Research Fellow, IDE-JETRO, Tokyo",
+    "bio": "Founding Energy Advisor/Faculty, Singularity University, NASA Research Park\nDirector, The Millennium Project\nVisiting Research Fellow, IDE-JETRO, Tokyo",
     "pic": "http://www.ictexpoethiopia.com/wp-content/uploads/2017/03/Jose-new.jpg"
-  },
-  {
-    "name": "Khalid Bomba",
-    "bio": "Chief Executive Officer, Agricultural Transformation Agency (ATA)",
-    "pic": "http://www.ictexpoethiopia.com/wp-content/uploads/2017/03/Khalid-new.jpg"
   },
   {
     "name": "Lin Sebastian Kayser",
@@ -108,5 +88,240 @@
     "name": "Nega Gebreyesus",
     "bio": "D.Sc. Senior HIS Adviser and Educator",
     "pic": "http://www.ictexpoethiopia.com/wp-content/uploads/2017/03/Nega-Gebreyesus.jpg"
+  },
+  {
+    "name": "Vince Diop",
+    "bio": "CEO, Belcash",
+    "pic": "http://www.ictexpoethiopia.com/wp-content/uploads/2017/04/placeholder.jpg"
+  },
+  {
+    "name": "Barney de Jongh",
+    "bio": "Head of Communities Practice- Digital Frontiers",
+    "pic": "http://www.ictexpoethiopia.com/wp-content/uploads/2017/04/placeholder.jpg"
+  },
+  {
+    "name": "Akhil Arora",
+    "bio": "Principal Solution Consultant, EMEA, Oracle FSGBU",
+    "pic": "http://www.ictexpoethiopia.com/wp-content/uploads/2017/04/placeholder.jpg"
+  },
+  {
+    "name": "Bekele Henkebo",
+    "bio": "COP for DFSA",
+    "pic": "http://www.ictexpoethiopia.com/wp-content/uploads/2017/04/placeholder.jpg"
+  },
+  {
+    "name": "Yilebes Addis",
+    "bio": "CTO –Kifya Financial",
+    "pic": "http://www.ictexpoethiopia.com/wp-content/uploads/2017/04/placeholder.jpg"
+  },
+  {
+    "name": "Munir Duri",
+    "bio": "CEO – Kifiya Financial Technologies",
+    "pic": "http://www.ictexpoethiopia.com/wp-content/uploads/2017/04/placeholder.jpg"
+  },
+  {
+    "name": "Chris Bwakra",
+    "bio": "Vice President, East Africa – Mastercard Foundation",
+    "pic": "http://www.ictexpoethiopia.com/wp-content/uploads/2017/04/placeholder.jpg"
+  },
+  {
+    "name": "Craig Jaggers",
+    "bio": "Country Director – FH",
+    "pic": "http://www.ictexpoethiopia.com/wp-content/uploads/2017/04/placeholder.jpg"
+  },
+  {
+    "name": "Dr. Sintayehu Woldemichael",
+    "bio": "Director General– Public Finance Enterprise Agency",
+    "pic": "http://www.ictexpoethiopia.com/wp-content/uploads/2017/04/placeholder.jpg"
+  },
+  {
+    "name": "Dr. Wolday Amha",
+    "bio": "Executive Director of the Association of Ethiopian Microfinance Institutions (AEMFI)",
+    "pic": "http://www.ictexpoethiopia.com/wp-content/uploads/2017/04/placeholder.jpg"
+  },
+  {
+    "name": "Dr. Theo Lippeveld",
+    "bio": "Vice President of International Division- JSI-WEI/Boston",
+    "pic": "http://www.ictexpoethiopia.com/wp-content/uploads/2017/04/placeholder.jpg"
+  },
+  {
+    "name": "Pazion Chernet",
+    "bio": "CEO- Orbit Heath",
+    "pic": "http://www.ictexpoethiopia.com/wp-content/uploads/2017/04/placeholder.jpg"
+  },
+  {
+    "name": "Dr. Nigusu Mekonnen",
+    "bio": "MSH",
+    "pic": "http://www.ictexpoethiopia.com/wp-content/uploads/2017/04/placeholder.jpg"
+  },
+  {
+    "name": "Dr. Yohannes Wodaje",
+    "bio": "Hello Doctor",
+    "pic": "http://www.ictexpoethiopia.com/wp-content/uploads/2017/04/placeholder.jpg"
+  },
+  {
+    "name": "Al Shiferaw",
+    "bio": "Deputy Country Director – JSI AIDS Free Project",
+    "pic": "http://www.ictexpoethiopia.com/wp-content/uploads/2017/04/placeholder.jpg"
+  },
+  {
+    "name": "Lilian Kidane",
+    "bio": "Director – Healthymagination Africa at General Electric",
+    "pic": "http://www.ictexpoethiopia.com/wp-content/uploads/2017/04/placeholder.jpg"
+  },
+  {
+    "name": "Henok Assefa",
+    "bio": "Managing Partner – Precise Consult International (Moderator)",
+    "pic": "http://www.ictexpoethiopia.com/wp-content/uploads/2017/04/placeholder.jpg"
+  },
+  {
+    "name": "Amsale Mengistu",
+    "bio": "Sr. Program Officer – Bill & Melinda Gates Foundation",
+    "pic": "http://www.ictexpoethiopia.com/wp-content/uploads/2017/04/placeholder.jpg"
+  },
+  {
+    "name": "Ermias Eshetu",
+    "bio": "CEO – ECX",
+    "pic": "http://www.ictexpoethiopia.com/wp-content/uploads/2017/04/placeholder.jpg"
+  },
+  {
+    "name": "Michael Jacobs",
+    "bio": "COP for PRIME – Pastoralist Areas MercyCorps",
+    "pic": "http://www.ictexpoethiopia.com/wp-content/uploads/2017/04/placeholder.jpg"
+  },
+  {
+    "name": "Jordan Fabyanske",
+    "bio": "Associate Partner & Country Director – Dalberg (Moderator)",
+    "pic": "http://www.ictexpoethiopia.com/wp-content/uploads/2017/04/placeholder.jpg"
+  },
+  {
+    "name": "Hailemelekot Teklegiorgis",
+    "bio": "Director, Rural Finance at ATA",
+    "pic": "http://www.ictexpoethiopia.com/wp-content/uploads/2017/04/placeholder.jpg"
+  },
+  {
+    "name": "Hailemelekot Teklegiorgis",
+    "bio": "Director, Rural Finance at ATA",
+    "pic": "http://www.ictexpoethiopia.com/wp-content/uploads/2017/04/placeholder.jpg"
+  },
+  {
+    "name": "Alan Johnson",
+    "bio": "Sr. Operations Officer – IFC",
+    "pic": "http://www.ictexpoethiopia.com/wp-content/uploads/2017/04/placeholder.jpg"
+  },
+  {
+    "name": "Adam Abate",
+    "bio": "Founding Partner – Apposit",
+    "pic": "http://www.ictexpoethiopia.com/wp-content/uploads/2017/04/placeholder.jpg"
+  },
+  {
+    "name": "Mamadou Biteye",
+    "bio": "Managing Director for Africa Regional Office – Rockefeller Foundation",
+    "pic": "http://www.ictexpoethiopia.com/wp-content/uploads/2017/04/placeholder.jpg"
+  },
+  {
+    "name": "Paul Stewart",
+    "bio": "Global Coffee Director–Technoserve",
+    "pic": "http://www.ictexpoethiopia.com/wp-content/uploads/2017/04/placeholder.jpg"
+  },
+  {
+    "name": "Scott Short",
+    "bio": "COP Lowland WASH (COP, AECOM)",
+    "pic": "http://www.ictexpoethiopia.com/wp-content/uploads/2017/04/placeholder.jpg"
+  },
+  {
+    "name": "Seyoum Bereded-Samuel",
+    "bio": "President, ICTET (Moderator)",
+    "pic": "http://www.ictexpoethiopia.com/wp-content/uploads/2017/04/placeholder.jpg"
+  },
+  {
+    "name": "Robert Ford",
+    "bio": "Vice President- Rwanda ICT Chamber",
+    "pic": "http://www.ictexpoethiopia.com/wp-content/uploads/2017/04/placeholder.jpg"
+  },
+  {
+    "name": "Vahagn Poghosyan",
+    "bio": "Board Member- UITE Armenia",
+    "pic": "http://www.ictexpoethiopia.com/wp-content/uploads/2017/04/placeholder.jpg"
+  },
+  {
+    "name": "Girmachew Admasse",
+    "bio": "CEO- Fairfax Technologies",
+    "pic": "http://www.ictexpoethiopia.com/wp-content/uploads/2017/04/placeholder.jpg"
+  },
+  {
+    "name": "Teshome Worku",
+    "bio": "Director- Private Sector Directorate, MCIT",
+    "pic": "http://www.ictexpoethiopia.com/wp-content/uploads/2017/04/placeholder.jpg"
+  },
+  {
+    "name": "Mr. Devang Vusssonji",
+    "bio": "Partner, Leader Employment and Education Practice –Dalberg (Moderator)",
+    "pic": "http://www.ictexpoethiopia.com/wp-content/uploads/2017/04/placeholder.jpg"
+  },
+  {
+    "name": "Eskinder Mamo",
+    "bio": "Founder & CEO – Ahadootec",
+    "pic": "http://www.ictexpoethiopia.com/wp-content/uploads/2017/04/placeholder.jpg"
+  },
+  {
+    "name": "Yared Ayele",
+    "bio": "Country Director – CAMARA Education",
+    "pic": "http://www.ictexpoethiopia.com/wp-content/uploads/2017/04/placeholder.jpg"
+  },
+  {
+    "name": "Sam Keiru",
+    "bio": "Cyber Security Specialist, Cisco",
+    "pic": "http://www.ictexpoethiopia.com/wp-content/uploads/2017/04/placeholder.jpg"
+  },
+  {
+    "name": "Dr. Asmamaw Mengistie",
+    "bio": "CEO – Sholla Technology-USA",
+    "pic": "http://www.ictexpoethiopia.com/wp-content/uploads/2017/04/placeholder.jpg"
+  },
+  {
+    "name": "Sathish Kumar",
+    "bio": "VP of CMI- Techno Brain Group",
+    "pic": "http://www.ictexpoethiopia.com/wp-content/uploads/2017/04/placeholder.jpg"
+  },
+  {
+    "name": "Mark Gantar",
+    "bio": "Owner- ArcSoft Consulting, & Honorary Counsel of Ethiopia in Seattle (Moderator)",
+    "pic": "http://www.ictexpoethiopia.com/wp-content/uploads/2017/04/placeholder.jpg"
+  },
+  {
+    "name": "Amadou Daffe",
+    "bio": "CEO – Gebeya Inc.",
+    "pic": "http://www.ictexpoethiopia.com/wp-content/uploads/2017/04/placeholder.jpg"
+  },
+  {
+    "name": "Zelalem Assefa",
+    "bio": "Head of Ethernet and Digital Content- Addis Ababa University",
+    "pic": "http://www.ictexpoethiopia.com/wp-content/uploads/2017/04/placeholder.jpg"
+  },
+  {
+    "name": "Imran Aziz",
+    "bio": "Education and Research Industry Solutions Lead, ECEMEA at Oracle",
+    "pic": "http://www.ictexpoethiopia.com/wp-content/uploads/2017/04/placeholder.jpg"
+  },
+  {
+    "name": "Shifali Srivastava",
+    "bio": "Vice President- Yazmi",
+    "pic": "http://www.ictexpoethiopia.com/wp-content/uploads/2017/04/placeholder.jpg"
+  },
+  {
+    "name": "Sehul Truesaw",
+    "bio": "Investment Advisor- USAID Contractor(Moderator)",
+    "pic": "http://www.ictexpoethiopia.com/wp-content/uploads/2017/04/placeholder.jpg"
+  },
+  {
+    "name": "Markos Lemma",
+    "bio": "Co-Founder- ICEADDIS",
+    "pic": "http://www.ictexpoethiopia.com/wp-content/uploads/2017/04/placeholder.jpg"
+  },
+  {
+    "name": "Leslie Reed",
+    "bio": "Mission Director- U.S. Agency For International Development",
+    "pic": "http://www.ictexpoethiopia.com/wp-content/uploads/2017/04/placeholder.jpg"
   }
 ]
