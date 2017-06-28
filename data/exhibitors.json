@@ -4,8 +4,8 @@
     "no_of_booths": 2,
     "booth_numbers": "1 & 2",
     "zone": 2,
-    "url": "https://www.cisco.com",
-    "tel": "",
+    "url": "http://www.cisco.com",
+    "tel": "+1-800-553-6387",
     "logo": ""
   },
   {
@@ -13,8 +13,8 @@
     "no_of_booths": 3,
     "booth_numbers": "3, 4 & 5",
     "zone": 2,
-    "url": "",
-    "tel": "",
+    "url": "http://www.glorious-plc.com",
+    "tel": "+251-11-1-575468",
     "logo": ""
   },
   {
@@ -23,7 +23,7 @@
     "booth_numbers": "6 & 7",
     "zone": 2,
     "url": "",
-    "tel": "",
+    "tel": "+251-911-207852",
     "logo": ""
   },
   {
@@ -32,7 +32,7 @@
     "booth_numbers": "8 & 9",
     "zone": 2,
     "url": "",
-    "tel": "",
+    "tel": "+251-911-727323",
     "logo": ""
   },
   {
@@ -40,8 +40,8 @@
     "no_of_booths": 2,
     "booth_numbers": "10 & 46",
     "zone": 2,
-    "url": "",
-    "tel": "",
+    "url": "http://www.infineth.com/",
+    "tel": "+251-11-557 6609",
     "logo": ""
   },
   {
@@ -50,7 +50,7 @@
     "booth_numbers": "11 & 12",
     "zone": 2,
     "url": "",
-    "tel": "",
+    "tel": "+251-11-8-961820",
     "logo": ""
   },
   {
@@ -58,8 +58,8 @@
     "no_of_booths": 2,
     "booth_numbers": "13 & 14",
     "zone": 2,
-    "url": "",
-    "tel": "",
+    "url": "http://www.bridgetechplc.com/",
+    "tel": "+251-116-610555",
     "logo": ""
   },
   {
@@ -67,8 +67,8 @@
     "no_of_booths": 3,
     "booth_numbers": "15, 16 & 17",
     "zone": 2,
-    "url": "",
-    "tel": "",
+    "url": "http://www.symboltech.net/",
+    "tel": "+251-910-822333",
     "logo": ""
   },
   {
@@ -81,7 +81,7 @@
     "logo": ""
   },
   {
-    "name": "Belay and Kuno ICT Partnership.",
+    "name": "Belay and Kuno ICT Partnership",
     "no_of_booths": 1,
     "booth_numbers": 21,
     "zone": 2,
@@ -94,8 +94,8 @@
     "no_of_booths": 8,
     "booth_numbers": "22, 23, 24, 25, 26, 27, 28 & 29",
     "zone": 2,
-    "url": "",
-    "tel": "",
+    "url": "http://www.tecno-mobile.com",
+    "tel": "+251-929-382266 ",
     "logo": ""
   },
   {
@@ -103,8 +103,8 @@
     "no_of_booths": 2,
     "booth_numbers": "30 & 31",
     "zone": 2,
-    "url": "",
-    "tel": "",
+    "url": "http://www.bravocomplc.com/",
+    "tel": "+251-910-200101",
     "logo": ""
   },
   {
@@ -112,8 +112,8 @@
     "no_of_booths": 2,
     "booth_numbers": "32 & 34",
     "zone": 2,
-    "url": "",
-    "tel": "",
+    "url": "http://www.chinaccsi.com",
+    "tel": "+251-913-547815",
     "logo": ""
   },
   {
@@ -121,8 +121,8 @@
     "no_of_booths": 2,
     "booth_numbers": "33 & 35",
     "zone": 2,
-    "url": "",
-    "tel": "",
+    "url": "https://www.facebook.com/Solfet-Security-Technology-PLC-1773628132904173/",
+    "tel": "+251-966-328299",
     "logo": ""
   },
   {
@@ -130,8 +130,8 @@
     "no_of_booths": 2,
     "booth_numbers": "36 & 38",
     "zone": 2,
-    "url": "",
-    "tel": "",
+    "url": "http://www.avicomtrading.com",
+    "tel": "+251-11-5540849",
     "logo": ""
   },
   {
@@ -139,8 +139,8 @@
     "no_of_booths": 5,
     "booth_numbers": "37, 39 & 41",
     "zone": 2,
-    "url": "",
-    "tel": "",
+    "url": "http://www.altacomputec.com",
+    "tel": "+251-11-5-502928",
     "logo": ""
   },
   {
@@ -148,8 +148,8 @@
     "no_of_booths": 5,
     "booth_numbers": "78 & 80",
     "zone": 3,
-    "url": "",
-    "tel": "",
+    "url": "http://www.altacomputec.com",
+    "tel": "+251-11-5-502928",
     "logo": ""
   },
   {
@@ -157,8 +157,8 @@
     "no_of_booths": 2,
     "booth_numbers": "40 & 42",
     "zone": 2,
-    "url": "",
-    "tel": "",
+    "url": "http://www.alkancit.com/",
+    "tel": "+251-11-5-572199",
     "logo": ""
   },
   {
@@ -166,8 +166,8 @@
     "no_of_booths": 1,
     "booth_numbers": 43,
     "zone": 2,
-    "url": "",
-    "tel": "",
+    "url": "http://www.hdase.com",
+    "tel": "+251-935-326622",
     "logo": ""
   },
   {
@@ -175,8 +175,8 @@
     "no_of_booths": 2,
     "booth_numbers": 44,
     "zone": 2,
-    "url": "",
-    "tel": "",
+    "url": "http://www.ienetworksolutions.com/",
+    "tel": "+251-115-570544",
     "logo": ""
   },
   {
@@ -184,8 +184,8 @@
     "no_of_booths": 2,
     "booth_numbers": 122,
     "zone": 1,
-    "url": "",
-    "tel": "",
+    "url": "http://www.ienetworksolutions.com/",
+    "tel": "+251-115-570544",
     "logo": ""
   },
   {
@@ -198,7 +198,7 @@
     "logo": ""
   },
   {
-    "name": "Quanneng Electronics and Technology PLc",
+    "name": "Quanneng Electronics and Technology PLC",
     "no_of_booths": 1,
     "booth_numbers": 47,
     "zone": 2,
@@ -211,8 +211,8 @@
     "no_of_booths": 6,
     "booth_numbers": "58, 59, 60, 61, 62 & 63",
     "zone": 3,
-    "url": "",
-    "tel": "",
+    "url": "http://www.ethiotelecom.et/",
+    "tel": "994",
     "logo": ""
   },
   {
@@ -220,8 +220,8 @@
     "no_of_booths": 6,
     "booth_numbers": "64, 65, 66, 67, 68 & 69",
     "zone": 3,
-    "url": "",
-    "tel": "",
+    "url": "http://www.huawei.com",
+    "tel": "+251-912-625964",
     "logo": ""
   },
   {
@@ -229,8 +229,8 @@
     "no_of_booths": 2,
     "booth_numbers": "70 & 71",
     "zone": 3,
-    "url": "",
-    "tel": "",
+    "url": "http://www.amlionsystems.com/",
+    "tel": "+251-921-282710",
     "logo": ""
   },
   {
@@ -238,8 +238,8 @@
     "no_of_booths": 4,
     "booth_numbers": "72, 73, 74 & 75",
     "zone": 3,
-    "url": "",
-    "tel": "",
+    "url": "http://www.zte.com.cn",
+    "tel": "+251-11-6-638511",
     "logo": ""
   },
   {
@@ -247,8 +247,8 @@
     "no_of_booths": 1,
     "booth_numbers": 76,
     "zone": 3,
-    "url": "",
-    "tel": "",
+    "url": "http://www.pss-ethiopia.com/",
+    "tel": "+251-11-5570667",
     "logo": ""
   },
   {
@@ -256,8 +256,8 @@
     "no_of_booths": 2,
     "booth_numbers": "77 & 79",
     "zone": 3,
-    "url": "",
-    "tel": "",
+    "url": "http://www.itsc.com.et",
+    "tel": "+251-11-5-535939",
     "logo": ""
   },
   {
@@ -265,8 +265,8 @@
     "no_of_booths": 1,
     "booth_numbers": 81,
     "zone": 3,
-    "url": "",
-    "tel": "",
+    "url": "http://www.22bole.com",
+    "tel": "0941727272",
     "logo": ""
   },
   {
@@ -283,8 +283,8 @@
     "no_of_booths": 1,
     "booth_numbers": 83,
     "zone": 3,
-    "url": "",
-    "tel": "",
+    "url": "http://www.orbithealth.co",
+    "tel": "+251-911-519123",
     "logo": ""
   },
   {
@@ -292,8 +292,8 @@
     "no_of_booths": 6,
     "booth_numbers": "84, 85, 86, 87, 88 & 89",
     "zone": 3,
-    "url": "",
-    "tel": "",
+    "url": "http://kifiya.com/",
+    "tel": "+251-11-5-580080",
     "logo": ""
   },
   {
@@ -301,8 +301,8 @@
     "no_of_booths": 1,
     "booth_numbers": 90,
     "zone": 3,
-    "url": "",
-    "tel": "",
+    "url": "https://www.infosys.com/",
+    "tel": "+251-11-6-632930",
     "logo": ""
   },
   {
@@ -319,8 +319,8 @@
     "no_of_booths": 1,
     "booth_numbers": 92,
     "zone": 3,
-    "url": "",
-    "tel": "",
+    "url": "http://www.ethiojobs.net",
+    "tel": "+251-924-910847",
     "logo": ""
   },
   {
@@ -328,8 +328,8 @@
     "no_of_booths": 1,
     "booth_numbers": 94,
     "zone": 3,
-    "url": "",
-    "tel": "",
+    "url": "http://www.ictet.org",
+    "tel": "+251-922-447777",
     "logo": ""
   },
   {
@@ -337,8 +337,8 @@
     "no_of_booths": 1,
     "booth_numbers": 95,
     "zone": 3,
-    "url": "",
-    "tel": "",
+    "url": "http://www.anbits.com",
+    "tel": "+1-678-820-8528",
     "logo": ""
   },
   {
@@ -346,8 +346,8 @@
     "no_of_booths": 6,
     "booth_numbers": "98, 99, 100, 101, 102 & 103",
     "zone": 1,
-    "url": "",
-    "tel": "",
+    "url": "http://www.cneterp.com",
+    "tel": "+251-11-6-636530",
     "logo": ""
   },
   {
@@ -355,7 +355,7 @@
     "no_of_booths": 2,
     "booth_numbers": "104 & 105",
     "zone": 1,
-    "url": "",
+    "url": "http://www.oracle.com",
     "tel": "",
     "logo": ""
   },
@@ -364,7 +364,7 @@
     "no_of_booths": 2,
     "booth_numbers": "106 & 107",
     "zone": 1,
-    "url": "",
+    "url": "http://www.digitalafriquetelecom.com/",
     "tel": "",
     "logo": ""
   },
@@ -382,7 +382,7 @@
     "no_of_booths": 1,
     "booth_numbers": 109,
     "zone": 1,
-    "url": "",
+    "url": "http://www.unowalk.com/",
     "tel": "",
     "logo": ""
   },
@@ -391,8 +391,8 @@
     "no_of_booths": 2,
     "booth_numbers": "110 & 111",
     "zone": 1,
-    "url": "",
-    "tel": "",
+    "url": "http://www.beamitsolutions.com/",
+    "tel": "+251-911-344326",
     "logo": ""
   },
   {
@@ -401,7 +401,7 @@
     "booth_numbers": 120,
     "zone": 1,
     "url": "",
-    "tel": "",
+    "tel": "+251-11-6-622747",
     "logo": ""
   },
   {
@@ -409,7 +409,7 @@
     "no_of_booths": 1,
     "booth_numbers": 113,
     "zone": 1,
-    "url": "",
+    "url": "http://www.microsoft.com",
     "tel": "",
     "logo": ""
   },
@@ -427,8 +427,8 @@
     "no_of_booths": 1,
     "booth_numbers": 115,
     "zone": 1,
-    "url": "",
-    "tel": "",
+    "url": "http://www.lucyinformationtechnologies.com/",
+    "tel": "+251-911-248501",
     "logo": ""
   },
   {
@@ -436,8 +436,8 @@
     "no_of_booths": 1,
     "booth_numbers": 116,
     "zone": 1,
-    "url": "",
-    "tel": "",
+    "url": "http://www.marakisoft.com",
+    "tel": "+251-930-106554",
     "logo": ""
   },
   {
@@ -445,8 +445,8 @@
     "no_of_booths": 1,
     "booth_numbers": 117,
     "zone": 1,
-    "url": "",
-    "tel": "",
+    "url": "http://exceeditsystems.com/",
+    "tel": "+251-911-217024",
     "logo": ""
   },
   {
@@ -454,8 +454,8 @@
     "no_of_booths": 1,
     "booth_numbers": 118,
     "zone": 1,
-    "url": "",
-    "tel": "",
+    "url": "http://targetethiopia.com/",
+    "tel": "+251-116-636645",
     "logo": ""
   },
   {
@@ -463,8 +463,8 @@
     "no_of_booths": 1,
     "booth_numbers": 112,
     "zone": 1,
-    "url": "",
-    "tel": "",
+    "url": "http://www.fairfaxtechnologies.com",
+    "tel": "+251-11-5-549172",
     "logo": ""
   },
   {
@@ -472,8 +472,8 @@
     "no_of_booths": 3,
     "booth_numbers": "119, 121 & 123",
     "zone": 1,
-    "url": "",
-    "tel": "",
+    "url": "http://www.technobraingroup.com",
+    "tel": "+251-11-4-421813",
     "logo": ""
   },
   {
@@ -481,8 +481,8 @@
     "no_of_booths": 2,
     "booth_numbers": "124 & 125",
     "zone": 1,
-    "url": "",
-    "tel": "",
+    "url": "http://www.websprix.com",
+    "tel": "+251-11-5-585081",
     "logo": ""
   },
   {
@@ -490,8 +490,8 @@
     "no_of_booths": 1,
     "booth_numbers": 126,
     "zone": 1,
-    "url": "",
-    "tel": "",
+    "url": "http://waliatechnologies.net",
+    "tel": "+251-11-4-702071",
     "logo": ""
   },
   {
@@ -499,8 +499,8 @@
     "no_of_booths": 1,
     "booth_numbers": 127,
     "zone": 1,
-    "url": "",
-    "tel": "",
+    "url": "http://www.apposit.com",
+    "tel": "+251-11-4-160667",
     "logo": ""
   },
   {
@@ -517,8 +517,8 @@
     "no_of_booths": 1,
     "booth_numbers": 129,
     "zone": 1,
-    "url": "",
-    "tel": "",
+    "url": "http://www.cimac-us.com",
+    "tel": "+251-11-1-262012",
     "logo": ""
   },
   {
@@ -526,8 +526,8 @@
     "no_of_booths": 1,
     "booth_numbers": 130,
     "zone": 1,
-    "url": "",
-    "tel": "",
+    "url": "http://www.yrptech.com/",
+    "tel": "+251-939-473908",
     "logo": ""
   },
   {
@@ -535,8 +535,8 @@
     "no_of_booths": 2,
     "booth_numbers": "131 & 133",
     "zone": 1,
-    "url": "",
-    "tel": "",
+    "url": "https://www2.deloitte.com/us/en.html",
+    "tel": "+251-11-5-524656",
     "logo": ""
   },
   {
@@ -553,8 +553,8 @@
     "no_of_booths": 1,
     "booth_numbers": 136,
     "zone": 1,
-    "url": "",
-    "tel": "",
+    "url": "http://www.ahadootec.com",
+    "tel": "+251-938-056287",
     "logo": ""
   },
   {
@@ -562,7 +562,7 @@
     "no_of_booths": 1,
     "booth_numbers": 138,
     "zone": 1,
-    "url": "",
+    "url": "http://www.sage.com",
     "tel": "",
     "logo": ""
   },
@@ -571,8 +571,8 @@
     "no_of_booths": 4,
     "booth_numbers": "140, 141, 142 & 143",
     "zone": 4,
-    "url": "",
-    "tel": "",
+    "url": "http://www.usaid.gov",
+    "tel": "+251-11-1-306002",
     "logo": ""
   },
   {
@@ -580,8 +580,8 @@
     "no_of_booths": 1,
     "booth_numbers": 144,
     "zone": 4,
-    "url": "",
-    "tel": "",
+    "url": "http://www.ethiosss.org.et",
+    "tel": "+251-11-6-655341 ",
     "logo": ""
   },
   {
@@ -589,8 +589,8 @@
     "no_of_booths": 1,
     "booth_numbers": 164,
     "zone": 5,
-    "url": "",
-    "tel": "",
+    "url": "http://www.camara.org",
+    "tel": "+251-11-8-690513",
     "logo": ""
   },
   {
@@ -598,8 +598,8 @@
     "no_of_booths": 1,
     "booth_numbers": 165,
     "zone": 5,
-    "url": "",
-    "tel": "",
+    "url": "https://www.gebeya.training",
+    "tel": "+251-11-6-156969",
     "logo": ""
   },
   {
@@ -607,8 +607,8 @@
     "no_of_booths": 4,
     "booth_numbers": "147, 148, 149",
     "zone": 4,
-    "url": "",
-    "tel": "",
+    "url": "http://www.mcit.gov.et",
+    "tel": "+251-11-5-500191",
     "logo": ""
   },
   {
@@ -616,8 +616,8 @@
     "no_of_booths": 1,
     "booth_numbers": 150,
     "zone": 4,
-    "url": "",
-    "tel": "",
+    "url": "http://www.mofed.gov.et/",
+    "tel": "+251-11-1-552400",
     "logo": ""
   },
   {
@@ -625,8 +625,8 @@
     "no_of_booths": 2,
     "booth_numbers": "151 & 152",
     "zone": 4,
-    "url": "",
-    "tel": "",
+    "url": "http://www.ata.gov.et",
+    "tel": "+251-11-5-570678",
     "logo": ""
   },
   {
@@ -634,8 +634,8 @@
     "no_of_booths": 1,
     "booth_numbers": 153,
     "zone": 4,
-    "url": "",
-    "tel": "",
+    "url": "https://www.suped.org/",
+    "tel": "+251-911-622690",
     "logo": ""
   },
   {
@@ -643,8 +643,8 @@
     "no_of_booths": 2,
     "booth_numbers": "#",
     "zone": 4,
-    "url": "",
-    "tel": "",
+    "url": "http://www.ethiopianairlines.com",
+    "tel": "Call us on +251-11-6-656666",
     "logo": ""
   },
   {
@@ -652,8 +652,8 @@
     "no_of_booths": 2,
     "booth_numbers": "Startup zone",
     "zone": 6,
-    "url": "",
-    "tel": "",
+    "url": "http://www.bluemoonethiopia.com",
+    "tel": "+251-11-6-674810",
     "logo": ""
   },
   {
@@ -661,8 +661,8 @@
     "no_of_booths": 2,
     "booth_numbers": "Startup zone",
     "zone": 6,
-    "url": "",
-    "tel": "",
+    "url": "http://www.iceaddis.com",
+    "tel": "+251-11-6-674804",
     "logo": ""
   },
   {
@@ -670,8 +670,8 @@
     "no_of_booths": 2,
     "booth_numbers": "Startup zone",
     "zone": 6,
-    "url": "",
-    "tel": "",
+    "url": "https://www.facebook.com/pg/xhubaddis",
+    "tel": "+251-11-8-603298",
     "logo": ""
   },
   {
@@ -679,8 +679,8 @@
     "no_of_booths": 2,
     "booth_numbers": "Startup zone",
     "zone": 6,
-    "url": "",
-    "tel": "",
+    "url": "http://ethiopia.reachforchange.org",
+    "tel": "+251-929-107877",
     "logo": ""
   },
   {
@@ -702,11 +702,11 @@
     "logo": ""
   },
   {
-    "name": "Arif Soft Technology",
+    "name": " ArifSoft Technology and Communication PLC",
     "no_of_booths": 1,
     "booth_numbers": 93,
     "zone": 3,
-    "url": "",
+    "url": "http://www.arifsoft.com/",
     "tel": "",
     "logo": ""
   },
@@ -715,8 +715,8 @@
     "no_of_booths": 1,
     "booth_numbers": 154,
     "zone": 5,
-    "url": "",
-    "tel": "",
+    "url": "http://www.mu.edu.et/",
+    "tel": "+251-34-4-404005",
     "logo": ""
   },
   {
@@ -724,8 +724,8 @@
     "no_of_booths": 2,
     "booth_numbers": "158 & 159",
     "zone": 2,
-    "url": "",
-    "tel": "",
+    "url": "http://ebstv.tv/website/",
+    "tel": "+251-11-6-292285",
     "logo": ""
   }
 ]
