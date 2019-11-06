@@ -11,7 +11,7 @@
   "dependencies": {
     "apiai": "^4.0.2",
     "jsonfile": "^3.0.0",
-    "mongoose": "^4.11.0",
+    "mongoose": "^5.7.5",
     "mongoose-unique-validator": "^1.0.5",
     "node-telegram-bot-api": "^0.27.1"
   },
